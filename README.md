@@ -1,1 +1,1 @@
-Documantation
+Documentation
