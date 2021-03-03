@@ -1,6 +1,6 @@
 SourceCode
 =====
-İnstagramdan masaüstüne video indirmeyi sağlayan program.
+Istagramdan masaüstüne video indirmeyi sağlayan program.
 
 Gerekli Paketler
 =====
