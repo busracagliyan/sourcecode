@@ -55,4 +55,3 @@ script,x=argv
 print("the name of the script: ",script)
 print("url of the video:",x)
 source_code(x)
-#"https://www.instagram.com/p/B0C6tA_gdJN/"
